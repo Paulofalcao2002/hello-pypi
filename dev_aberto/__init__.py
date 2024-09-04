@@ -1,1 +1,1 @@
-from ..scripts.hello import *
+from .dev_aberto import hello
